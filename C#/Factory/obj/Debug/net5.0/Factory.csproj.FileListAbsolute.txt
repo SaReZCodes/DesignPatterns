@@ -1,0 +1,16 @@
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\Factory.exe
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\Factory.deps.json
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\Factory.dll
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\ref\Factory.dll
+H:\sarez\Codes\DesignPatterns\C#\Factory\bin\Debug\net5.0\Factory.pdb
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.csprojAssemblyReference.cache
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.dll
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\ref\Factory.dll
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.pdb
+H:\sarez\Codes\DesignPatterns\C#\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache

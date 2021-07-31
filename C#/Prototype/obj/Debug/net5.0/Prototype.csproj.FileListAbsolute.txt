@@ -1,0 +1,16 @@
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\Prototype.exe
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\Prototype.deps.json
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\Prototype.dll
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+H:\sarez\Codes\DesignPatterns\C#\Prototype\bin\Debug\net5.0\Prototype.pdb
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.csprojAssemblyReference.cache
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.dll
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.pdb
+H:\sarez\Codes\DesignPatterns\C#\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
