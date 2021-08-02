@@ -1,10 +1,11 @@
 public class SamsungNote : IBuilder
 {
+    Phone _Phone = null;
     public SamsungNote()
     {
         _Phone = new Phone("Samsung Note 8 ");
     }
-    public Phone _Phone = null;
+
     public Phone Phone => _Phone;
     public void BuildScreen()
     {

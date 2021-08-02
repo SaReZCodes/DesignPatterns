@@ -1,10 +1,10 @@
 public class Lumia1020 : IBuilder
 {
+    Phone _Phone = null;
     public Lumia1020()
     {
         _Phone = new Phone("Lumia1020 ");
     }
-    Phone _Phone = null;
     public Phone Phone => _Phone;
     public void BuildScreen()
     {
@@ -14,11 +14,5 @@ public class Lumia1020 : IBuilder
     {
         _Phone.OsName = "Windows Phone 8 ";
     }
-
-    public void Build()
-    {
-        _Phone.OsName = "Windows Phone 8 ";
-    }
-
 
 }

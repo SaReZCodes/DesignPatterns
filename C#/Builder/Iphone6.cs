@@ -1,10 +1,10 @@
 public class Iphone6 : IBuilder
 {
+    Phone _Phone = null;
     public Iphone6()
     {
         _Phone = new Phone("Iphone6 ");
     }
-    public Phone _Phone = null;
     public Phone Phone => _Phone;
     public void BuildScreen()
     {
