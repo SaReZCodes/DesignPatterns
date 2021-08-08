@@ -6,5 +6,4 @@ public class Benz : ICarSupplier
     {
         Console.WriteLine("Benz Is Starting");
     }
-
 }

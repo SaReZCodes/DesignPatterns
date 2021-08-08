@@ -15,4 +15,8 @@ public class Iphone6 : IBuilder
         _Phone.OsName = "IOS 9 ";
     }
 
+    public void Build()
+    {
+        _Phone.OsName = "IOS 9 ";
+    }
 }
